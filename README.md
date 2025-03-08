@@ -1,4 +1,6 @@
-# 💼 [Shashank kumar] – Software Engineer | Full Stack Developer
+<h1 align="center">Hi 👋, I'm Shashank!</h1>
+<h3 align="center">A Passionate Full Stack Developer 🚀</h3>
+
 
 ## 🚀 About Me
 Passionate software engineer with expertise in **Angular, Spring Boot, and Virtual Reality Fitness Systems**. I specialize in building scalable and user-friendly web applications. 
