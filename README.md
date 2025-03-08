@@ -6,7 +6,7 @@ Passionate software engineer with expertise in **Angular, Spring Boot, and Virtu
 - 🔭 Currently working on **Stop Watch Timer**  
 - 🌱 Learning **Java, DSA, and AdvanceJava**  
 - 💬 Ask me about **Angular, Spring Boot, and API Development**  
-- 📫 Reach me at: [shashanksingh202020@gmail.com] | [LinkedIn](https://github.com/shashank9142)  
+- 📫 Reach me at: [shashanksingh202020@gmail.com] | (https://github.com/shashank9142)  
 
 ## 🛠️ Tech Stack
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -14,9 +14,17 @@ Passionate software engineer with expertise in **Angular, Spring Boot, and Virtu
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+
+<h3 align="left">🛠 Languages & Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgresql,html,css,js,ts,git,github,aws,docker,vscode,linux" />
+</p>
+
+
 ## 📌 Projects
-### 🔹 [CodeCrafters](your-github-repo-url)
-- **Tech Stack**: Angular, Spring Boot, PostgreSQL
+### 🔹 [Stop Watch Timer](your-github-repo-url)
+- **Tech Stack**: HTML, CSS, Javascript
 - A platform to help developers collaborate and improve coding skills.
 
 ### 🔹 [Virtual Reality Fitness Trainer](your-github-repo-url)
